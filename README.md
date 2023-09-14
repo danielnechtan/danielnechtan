@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @danielnechtan
-- 👀 I’m interested in OpenBSD, C, Perl, Elixir, linguistics, and Electronic Engineering.
-- 🌱 I’m currently working on academic stuff 
-- 📫 [https://nechtan.io](https://nechtan.io)
+- 👋 Hello, I’m @danielnechtan
+- 👀 I am interested in OpenBSD, C, Perl, Elixir, linguistics, and Electronic Engineering.
+- 📫 [https://www,nechtan.io](https://www.nechtan.io)
